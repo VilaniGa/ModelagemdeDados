@@ -1,9 +1,9 @@
 <?php  
 
 $dbserver = '127.0.0.1';  
-$bdUsuario = 'BREID';  
+$bdUsuario = 'Flamengo';  
 $bdSenha = 'uGKa4sQfGqmKcZRZ';  
-$db = 'livia';  
+$db = 'gabriel';  
 
 $conexao = mysqli_connect($dbserver, $bdUsuario, $bdSenha, $db);  
 
